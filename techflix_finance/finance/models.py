@@ -1,5 +1,6 @@
 from django.db import models
 
+
 PAYMENT_WAY_CHOICES = {
     ('CREDIT CARD', 'Credit Card'),
     ('Debit', 'Debit'),
